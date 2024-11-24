@@ -1,1 +1,1 @@
-Bem vendo a página de materiais de palestras.
+Bem vindo a página de materiais e palestras.
